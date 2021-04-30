@@ -17,5 +17,7 @@ provide simple examples for Git training.
 
 ## Deployment
 
+Simple web project.  Deployment can be on any web....
+
 ## How To Contribute
 
